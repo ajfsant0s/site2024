@@ -1,4 +1,11 @@
 @charset "UTF-8"
+
+title
+{
+ font-size: 24pts;
+ color: red;
+}
+
 body
 {
  background-color: white;
@@ -7,7 +14,4 @@ body
  font-family: Baskerville;
   }
 
-title
-{
- font-size: 24pts;
-}
+
